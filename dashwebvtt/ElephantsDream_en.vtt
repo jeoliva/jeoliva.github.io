@@ -1,15 +1,15 @@
 ﻿WEBVTT
 
 1
-00:00:15.042 --> 00:00:18.042
+00:00:15.042 --> 00:00:18.042 vertical:lr
 At the <c.red.caps>left</c> we can see...
 
 2
-00:00:18.167 --> 00:00:20.083
+00:00:18.167 --> 00:00:20.083 position:20%,start align:middle
 <c.red.caps>At the right we can see the...</c>
 
 3
-00:00:20.083 --> 00:00:22.000
+00:00:20.083 --> 00:00:22.000 position:75%
 ...the head-snarlers.
 
 4
@@ -57,11 +57,11 @@ You'll see!
 (howling wind)
 
 15
-00:01:16.042 --> 00:01:18.083 A:start S:25%
+00:01:16.042 --> 00:01:18.083 align:start size:25%
 Emo This way.
 
 16
-00:01:34.250 --> 00:01:35.542 A:start S:25%
+00:01:34.250 --> 00:01:35.542 align:start size:25%
 Follow me!
 
 17
@@ -69,7 +69,7 @@ Follow me!
 (buzzing wires and chattery conversations)
 
 18
-00:02:11.125 --> 00:02:12.542 A:start S:25%
+00:02:11.125 --> 00:02:12.542 align:start size:25%
 Hurry Emo!
 
 19
