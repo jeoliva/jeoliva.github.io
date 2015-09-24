@@ -5,7 +5,7 @@
 Vertical LR.
 
 0
-00:00:06.000 --> 00:00:10.000 vertical:rl position:20%
+00:00:06.000 --> 00:00:10.000 vertical:rl position:40%
 Vertical RL text. 20% position
 
 0
@@ -17,7 +17,7 @@ Vertical RL super large text that probably doesn't fit in the screen or maybe ye
 Vertical LR. Align Start
 
 2
-00:00:18.167 --> 00:00:20.083 position:20%,start align:end
+00:00:18.167 --> 00:00:20.083 vertical:lr align:end
 Vertical LR. Align End
 
 3
