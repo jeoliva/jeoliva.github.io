@@ -4,7 +4,7 @@
  <Period>
 	<AdaptationSet mimeType="text/vtt" lang="en"> 
 		<Representation id="caption_en" bandwidth="256">
-			<BaseURL>ElephantsDream_en.vtt</BaseURL> 
+			<BaseURL>test.vtt</BaseURL> 
 		</Representation>
 	</AdaptationSet>
   <AdaptationSet codecs="avc1.42c01e" mimeType="video/mp4" subsegmentAlignment="true" subsegmentStartsWithSAP="1">

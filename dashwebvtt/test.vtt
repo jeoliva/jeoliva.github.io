@@ -90,15 +90,15 @@ Vertical: RL, Line: -10,middle
 
 0
 00:02:00.000 --> 00:02:05.000 vertical:lr align:start
-Vertical: LR, Align: start
+Vertical: LR, Align:start
 
 0
-00:02:06.000 --> 00:02:10.000 vertical:lr position:20% align:start 
-Vertical: LR, Align: start, position: 20%
+00:02:06.000 --> 00:02:10.000 vertical:lr position5% align:start 
+Vertical: LR, Align:start, position:5%
 
 0
-00:02:10.000 --> 00:02:15.000 vertical:lr position:20%,end
-Vertical: LR, Position: 20%,end
+00:02:10.000 --> 00:02:15.000 vertical:lr position:5%,end
+Vertical: LR, Position: 5%,end
 
 0
 00:02:15.000 --> 00:02:20.000 vertical:lr line:30%
